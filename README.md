@@ -1,5 +1,5 @@
-# 2019-System-Level-Diagram
-This is a system level wiring diagram for the UVH20 car. It was made in Altium Designer 17 by Chad McColm with assistance from the electrical team. 
+# 2020-System-Level-Diagram
+This is a system level wiring diagram for the UVH20 car. It was made in Altium Designer 19 by Akshdeep Maan with assistance from everyone else. 
 
 ## Schematics as Images
 Please find below the schematics as of December 10, 2018. You can click them for the original image which can be zoomed into if you desire. These images are hosted as an issue: [#1](https://github.com/UVicFH/2019-System-Level-Diagram/issues/1). 
