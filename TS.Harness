@@ -1,0 +1,2 @@
+Harness=+12V CNTRL,GND,CANH,CANL
+Motor Controller=Throttle_Signal,Regen_Signal,Throttle_Switch,Regen_Switch
